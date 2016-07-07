@@ -1,3 +1,3 @@
 # matematyka
 
-link do strony: [danieluss476.github.io/matematyka](danielus476.github.io/matematyka)
+link do strony: [danieluss476.github.io/matematyka](http://danieluss476.github.io/matematyka/)
